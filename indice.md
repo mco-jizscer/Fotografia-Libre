@@ -1,6 +1,6 @@
 # Índice
 ### Introducción
-### Capítulo I: Soberanía y libre cultura.
+### Capítulo I: Soberanía, cultura libre y arte.
 
 >**1.1** Nociones de cultura, libertad y soberanía.
 
@@ -15,13 +15,19 @@
 <br>
 >>>**1.2.1.2** Soberanía Auténtica
 
->>**1.1.4** ¿Soberanía Creativa?
+>>**1.3.4** ¿Soberanía Creativa?
 
->**1.1.3** La libre cultura o cultura libre
+>**1.4.3** La cultura libre
 <br>
 >>>**1.1.3.1** El derecho a la cultura libre
 
-### Capítulo II: La libre cultura y su relación con la fotografía.
+>**1.5** El Arte libre
+>>**1.5.1** Licencias de distribución, copia y modificación del arte
+>>**1.5.1.1** Creative Comons (cc)
+>>**1.5.1.2** Arte Libre 1.2 (FreeArt 1.2)
+
+
+### Capítulo II: La cultura libre y su relación con la fotografía.
 
 >**2.1** Los grandes maestro y alquimistas
 
