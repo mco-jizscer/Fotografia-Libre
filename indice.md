@@ -29,41 +29,37 @@
 
 ### Capítulo II: La cultura libre y su relación con la fotografía.
 
->**2.1** Los grandes maestro y alquimistas
+>**2.1** La guerra de patentes
+<br>
+>>**2.1.1** Múltiples descubrimientos
+<br>
+>>**2.1.2** Descubrimientos y dominio público
 
->**2.2** Transmision horizontal de los conocimientos fotográficos o el oficio de fotográfico.
+>**2.2** Políticas corporativas en el desarrollo de la técnica fotográfica
+>>**2.2.1** Kodak
 <br>
->>**2.2.1** Óptica
+>>**2.2.2** Ilford
 <br>
->>**2.2.2** Materiales fotosensibles
+>>**2.2.3** Lomography
 <br>
->>**2.2.3** Química fotográfica
+>>**2.2.4** Imposible Project
 
->**2.3** Políticas corporativas en el desarrollo de la técnica fotográfica
->>**2.3.1** Kodak
+>**2.3** Actualidad de la fotografía química y los procesos fotográficos fotosensibles
 <br>
->>**2.3.2** Ilford
+>>**2.3.1** Fundación Penumbra
 <br>
->>**2.3.3** Lomography
+>>**2.3.2** Festival Revela-t
 <br>
->>**2.3.4** Imposible Project
+>>**2.3.3** Fotografos contemporáneos
 
->**2.4** Actualidad de la fotografía química y los procesos fotográficos fotosensibles
+>**2.4** Proyectos Fotográficos, Hardware y Software libre
+>>**2.4.1** Lux cámera
 <br>
->>**2.4.1** Fundación Penumbra
+>>**2.4.2** MagicLatern
 <br>
->>**2.4.2** Festival Revela-t
+>>**2.4.3** Photoduino
 <br>
->>**2.4.3** Fotografos contemporáneos
-
->**2.5** Proyectos Fotográficos, Hardware y Software libre
->>**2.5.1** Lux cámera
-<br>
->>**2.5.2** MagicLatern
-<br>
->>**2.5.3** Photoduino
-<br>
->>**2.5.4** RawTheraphee
+>>**2.4.4** RawTheraphee
 
 ### Capítulo III: Hacia la Fotografía libre (proyecto personal)
 >**3.1** Axolotl18 (n.f.c)
