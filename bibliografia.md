@@ -7,7 +7,7 @@
 **Benjamín, Walter**, _La obra de arte en la época de su reproductibilidad técnica [Urtext]_, México DF,
 Ítaca, 2003, 127 pp.
 
-**CAMPILLO**, Antonio, "Introdución: El amor de un ser mortal" en, Bataille, George, *Lo que entiendo por sobernía*,Paidós,Barcelona, 1996, pp. 09-43.
+**CAMPILLO**, Antonio, "Introdución: El amor de un ser mortal" en, Bataille, George, _Lo que entiendo por sobernía_,Paidós,Barcelona, 1996, pp. 09-43.
 
 **Eagleton, Terry**, _Ideología: una introducción_, Barcelona, Paidós Iberica, 1997, 304 pp.
 
@@ -48,28 +48,28 @@ de Compostela, 2009, 289 pp.
 **[Rev]**
 
 
-**????**,  _La imagen fotográfica en la cultura digital_, (...)
+**VV.AA**,  _La imagen fotográfica en la cultura digital_, Paidós, Barcelona, 1997. pp.336
 
-**Lister, Martin**, "Ensayo introductorio" en,  _La imagen fotográfica en la cultura digital_, (...)
+**Lister, Martin**, "Ensayo introductorio" en, VV.AA.,  _La imagen fotográfica en la cultura digital_, Paidós, Barcelona, 1997. pp.336
 
-**Bajac, Quentin** _La Invención de la fotografía: La imagen revelada_. [morelia algo de el en fad y bc]
+**Bajac, Quentin** _La Invención de la fotografía: La imagen revelada_, Blume, Barcelona, 2011, pp.160 <morelia algo de el en fad y bc>
 
-**Benjamon, Walter** _Breve historia de la fotografía_.
+**Benjamin, Walter**, _Breve historia de la fotografía_, Casimiro, Madrid, 2011, pp. 64
 
-**Chevrier, Jean-francois** _La Fotografía entre las bellas artes y los medios de comunicación_.
+**Chevrier, Jean-francois** _La Fotografía entre las bellas artes y los medios de comunicación_, Gustavo Gilli, Barcelona, 2007, pp.350
 
-**Fontcuberta, Joan**, _Estética fotográfica. Una selección de textos_.
+**Fontcuberta, Joan**, _Estética fotográfica. Una selección de textos_, Gustavo Gilli, Barcelona, 2013, pp. 288
 
-**Gómez Cruz, Edgar**, _De la Cultura Kodak a la Imagen en red. Una etnografía de fotografía digital_.
+**Gómez Cruz, Edgar**, _De la Cultura Kodak a la Imagen en red. Una etnografía de fotografía digital_,  Universitat Oberta de Catalunya, Barcelona, 2012, pp.290
 
-**Kracauer, Siegfried**, _Fotografía y otros ensayos, La. El ornamento de la masa 1_. [Biblio Central]
+**Kracauer, Siegfried**, _Fotografía y otros ensayos, La. El ornamento de la masa 1_, Gedisa, Barcelona, 2009, pp. 160 <Biblio Central>
 
-**Krauss, Rosalind**, _Lo Fotográfico, por una teoría de los desplazamientos_.
+**Krauss, Rosalind**, _Lo Fotográfico, por una teoría de los desplazamientos_, Gustavo Gilli, Barcelona, 2002, pp.237
 
-**Sanchez Vigil, Juan Miguel**, _Del daguerrotipo a la Instamatic. Autores, tendencias, instituciones_. [FFyL BC]
+**Sanchez Vigil, Juan Miguel**, _Del daguerrotipo a la Instamatic. Autores, tendencias, instituciones_, TREA, España, 2007, pp. 608 <FFyL BC>
 
-**Sentemans, Tatiana** _Amazonas mecánicas: engranajes visuales, políticos y culturales_.
+**Sentemans, Tatiana** _Amazonas mecánicas: engranajes visuales, políticos y culturales_, Ministerio de Cultura, España, 2008, pp.330
 
-**Sougez, Marie-loup(coord.)**, _Historia general de la fotografía_.
+**Sougez, Marie-loup(coord.)**, _Historia general de la fotografía_, Cátedra, 2007, Madrid, pp. 832
 
-**AAVV**, _Década. La historia fotográfica definitiva de la primera década del siglo XXI_.
+**VV.AA.**, _Década. La historia fotográfica definitiva de la primera década del siglo XXI_, Phaidon,2010, pp. 504
