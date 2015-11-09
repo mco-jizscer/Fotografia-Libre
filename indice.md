@@ -7,7 +7,6 @@
 
 **Capítulo I: Soberanía, cultura libre y arte.**
 
-
 **1.1** Nociones de cultura, libertad y soberanía.
 
 **1.1.1** La idea de cultura
@@ -29,6 +28,12 @@
 **1.3** La cultura libre
 
 **1.3.1** El derecho a la cultura libre
+
+**1.3.2** Software Libre
+
+**1.3.3** Hardware Libre, ¿qué tan libre?
+
+**1.3.4** Hecho en China
 
 
 **1.4** El Arte libre
