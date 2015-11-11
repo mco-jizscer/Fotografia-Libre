@@ -8,7 +8,7 @@
 
 **Benjamin, Walter**, _Breve historia de la fotografía_, Casimiro, Madrid, 2011, pp. 64
 
-**________________**, _La obra de arte en la época de su reproductibilidad técnica [Urtext]_, México DF,
+**_______________**, _La obra de arte en la época de su reproductibilidad técnica [Urtext]_, México DF,
 Ítaca, 2003, 127 pp.
 
 **Campillo**, Antonio, "Introdución: El amor de un ser mortal" en, Bataille, George, _Lo que entiendo por sobernía_,Paidós,Barcelona, 1996, pp. 09-43.
