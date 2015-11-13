@@ -32,7 +32,7 @@ Medios y métodos de producción fotográfica. _Procesos alternativos_ de produc
 - Plantear el concepto de _soberanía creativa_ aplicado a la producción de fotografía contemporánea.
 - Debatir acerca de la vigencia y continuidad de los procesos químicos en la producción fotográfica contemporánea.
 - Revisar y analizar brevemente diversas formas de plantear la soberanía.
-- Problematizar los conceptos de soberanía, cultura, cultura libre, Software libre, hardware libre.
+- Problematizar los conceptos de soberanía, cultura libre, _Software_ libre, _Open Source Hardware_.
 
 
 **Problema a resolver**
@@ -43,7 +43,7 @@ La fotografía _analógica_ o química no escapó a la _catástrofe_. En las esc
 
 La masificación de la fotografía _digital_ abre una brecha. Por un lado se libera a la fotografía _análoga_ o química de una de sus labores [por lo menos en el imaginario popular]: _la reproducción fiel de realidad_. Debido, en parte, a que ahora es posible realizar esta labor de manera más _eficiente_, en cuanto a inmediatez, liberando al _otro_ tipo de fotografía. Sin embargo, la masificación de la _cultura libre_ y la libre distribución del conocimiento abren la posibilidad de crear, desarrollar y mantener formas de producción plástica tradicionales que se mantengan acorde a nuestro tiempo.
 
-El presente proyecto de investigación, desarrollará como eje fundamental la pregunta: ¿podemos elegir el sistema que utilizamos para producir fotografía contemporánea? Con ello, pretende dar como resultado una propuesta plástica vinculada a la fotografía, a través de sus medios de producción, en la que se plantee, desarrolle y ejerza la _soberanía creativa_. Para ello, será necesario plantear y definir el concepto de _soberanía_ y _soberanía creativa_. Se partirá de la propuesta de Bataille al diferenciar entre _soberanía tradicional_ y _soberanía auténtica_. De igual modo, se revisarán, analizarán y problematizarán los conceptos  de _software libre_  y _hardware libre_ en su vínculo con la cultura libre.
+El presente proyecto de investigación, desarrollará como eje fundamental la pregunta: ¿podemos elegir el sistema que utilizamos para producir fotografía contemporánea? Con ello, pretende dar como resultado una propuesta plástica vinculada a la fotografía, a través de sus medios de producción, en la que se plantee, desarrolle y ejerza la _soberanía creativa_. Para ello, será necesario plantear y definir el concepto de _soberanía_ y _soberanía creativa_. Se partirá de la propuesta de Bataille al diferenciar entre _soberanía tradicional_ y _soberanía auténtica_. De igual modo, se revisarán, analizarán y problematizarán los conceptos  de _software libre_  y _open surce hardware_ en su vínculo con la cultura libre y el arte.
 
 Podríamos dar un _sí_ cómo una respuesta _a priori_ a nuestro cuestionamiento debido a la inmensa cantidad de información de la que nos es posible disponer. Sin embargo, es necesario analizar hasta qué punto y bajo cuáles circunstancias nos es posible elegir y decidir sobre los medios y métodos que utilizamos para producir. Y, de esta forma, decidir sobre el impacto tanto ambiental como cultural que generarán, sin olvidar su impacto sobre nuestras propias propuestas plásticas.
 
