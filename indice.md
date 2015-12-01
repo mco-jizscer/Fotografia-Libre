@@ -7,11 +7,13 @@
 
 **Capítulo I: Soberanía, cultura libre y arte.**
 
-**1.1** Nociones de cultura, libertad y soberanía.
+**1.1** Nociones de cultura y libertad
 
 **1.1.1** La idea de cultura
 
 **1.1.2** Las ideas de libertad
+
+**1.1.3** Hacia la cultura libre
 
 
 **1.2** Lo que entenderemos por soberanía
@@ -22,10 +24,10 @@
 
 **1.2.1.2** Soberanía Auténtica
 
-**1.2.2** ¿Soberanía Creativa?
+**1.2.2** ¿Es posible hablar de soberanía creativa?
 
 
-**1.3** La cultura libre
+**1.3** La cultura (libre)
 
 **1.3.1** El derecho a la cultura
 
