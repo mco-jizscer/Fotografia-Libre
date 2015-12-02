@@ -8,7 +8,12 @@ Nueva York: Focal Press, 2008.
 Bajac, Quentin,
 _La Invención de la fotografía: La imagen revelada_,
 Barcelona: Blume, 2011.
-<!--[160][][morelia algo de el en fad y bc]-->
+<!--[160][N6494.S8 S83][morelia algo de el en fad y bc]-->
+
+Bakunin, Mijaíl,
+_La libertad_
+Madrid: Jucar, 1978
+<!--[JC571 B342][FFyL]-->
 
 Bataille, George,
 _Lo que entiendo por sobernía_,
@@ -20,12 +25,22 @@ Madrid: Casimiro, 2011.
 <!--[64][]-->
 
 Benjamin, Walter,
+_Imágenes que piensan_ [trad. Jorge Navarro Pérez],
+Madrid : Abada, 2012.
+<!--[193][PT2603.E455 D4418] [BC]-->
+
+Benjamin, Walter,
 _La obra de arte en la época de su reproductibilidad técnica [Urtext]_,
 México DF: Ítaca, 2003.
 <!--[127][]-->
 
+Benjamin, Walter,
+_Sobre la Fotografía_ [trad. José Muñoz Millanes ]
+Valencia : Pre-Textos, 2007.
+<!--[153][TR147 B4718 2007] [BC]-->
+
 Campillo, Antonio,
-"Introdución: El amor de un ser mortal",
+«Introdución: El amor de un ser mortal»,
 en Bataille, George, _Lo que entiendo por sobernía_,
 Barcelona: Paidós, 1996.
 <!--[09-43][]-->
@@ -36,9 +51,16 @@ Barcelona: Gustavo Gilli, 2007.
 <!--[350][]-->
 
 Eagleton, Terry,
-_Ideología: una introducción_,
-Barcelona: Paidós, 1997.
-<!--[304][]-->
+_Después de la teoría_ [trad. Ricardo García Pérez],
+Barcelona: Debate, 2005.
+
+Eagleton, Terry,
+_Marx y la libertad_ [trad. Germán Saavedra Soler],
+Bogotá: Norma, 1999.
+
+Eagleton, Terry,
+_La idea de cultura. una mirada política sobre los conflictos culturales_ [trad. Ramón José del Castillo],
+Barcelona: Paidós, 2001.
 
 Ewing, William,
 _El Rostro Humano: El Nuevo Retrato Fotográfico_,
@@ -50,15 +72,38 @@ _Estética fotográfica. Una selección de textos_,
 Barcelona: Gustavo Gilli, 2013.
 <!--[288][]-->
 
+Freund, Gisèle,
+_La Fotografía como documento social_
+Barcelona: Gustavo Gilli, 2008.
+<!--[207][]-->
+
+Garcés, Marina,
+_En las prisiones de lo posible_
+Barcelona: Bellaterra, 2002.
+<!--[BC199.P7 G37][BC; CCH-SUR]-->
+
+Garcés, Marina,
+_La fuerza del anonimato_
+Barcelona: Bellaterra - Espai en Blanc, 2009.
+<!--[HM816 F84][BC;FAD]-->
+
+Garcés, Marina,
+_Un mundo común_,
+Barcelona: Bellaterra, 2013.
+
+García Canclini, Néstor,
+_Culturas Híbridas. estrategias para entrar y salir de la modernidad_,
+ México, D.F.: Grijalbo, 1990.
+ <!--[HM106 G37 1990][BC]-->
+
 Gombrowicz, Witold,
 _Ferdydurke_,
 Buenos Aires: Sudamericana, 1983.
 
 Goldstein, Paul,
-_El copyright en la sociedad de la información_,
-trad. María Luisa Llobregat Hurtado],
+_El copyright en la sociedad de la información_ [trad. María Luisa Llobregat Hurtado],
 Alicante: Universidad de Alicante, 1999.
-<!--[205][]-->
+<!--[205][KF2994] [BC]-->
 
 Gómez Cruz, Edgar,
 _De la Cultura Kodak a la Imagen en red. Una etnografía de fotografía digital_,
@@ -76,28 +121,28 @@ México DF: Siglo XII, 1999.
 <!--[259][]-->
 
 Kracauer, Siegfried,
-_Fotografía y otros ensayos, La. El ornamento de la masa 1_,
+_La Fotografía y otros ensayos. El ornamento de la masa_,
 Barcelona: Gedisa, 2009.
-<!--[160][Biblio Central]-->
+<!--[160][BC]-->
 
 Krauss, Rosalind,
 _Lo Fotográfico, por una teoría de los desplazamientos_,
 Barcelona: Gustavo Gilli, 2002.
-<!--[237][]-->
+<!--[237][TR642 K7318] [BC]-->
 
 Lessig, Lawrence,
-_Cultura libre : cómo los grandes medios usan la tecnología y las leyes para encerrar la cultura y controlar la creatividad_,
+_Cultura libre: cómo los grandes medios usan la tecnología y las leyes para encerrar la cultura y controlar la creatividad_,
 Santiago de Chile: LOM, 2005.
-<!--[265][]-->
+<!--[265][KF2979 L4718][BC]-->
 
 Levi, Simona,
-_Cultura libre digital : nociones basicas para defender lo que es de todxs_
+_Cultura libre digital: nociones básicas para defender lo que es de todxs_
 Barcelona: Icaria, 2012.
 <!--[126][]-->
 
 Lister, Martin,
-"Ensayo introductorio",
-en VV.AA.,  _La imagen fotográfica en la cultura digital_,
+«Ensayo introductorio»,
+en VV.AA., _La imagen fotográfica en la cultura digital_,
 Barcelona: Paidós, 1997.
 <!--[336][]-->
 
@@ -111,10 +156,14 @@ _La cultura como acción_ [Introducción y selección de Rubén Astudillo y Astu
 Quito: Ministerio de Educación, Cultura, Deportes y Recreación del Ecuador, 2002.
 <!--[358][]-->
 
+Menke, Christoph,
+_La sobreanía del arte. La experiencia estética según Adorno y Derrida_
+Madrid, Visor: 1997.
+
 Mosterín, Jesús,
 _La cultura de la libertad_,
 Madrid: Espasa, 2008.
-<!--[303][B824.4 M67]-->
+<!--[303][B824.4 M67][BC]-->
 
 ﻿Read, Herbert,
 _Al diablo con la cultura_,
@@ -141,30 +190,39 @@ _El artesano_,
 Barcelona: Anagrama, 2009.
 <!--[416][]-->
 
-Sentemans, Tatiana
+Sentemans, Tatiana,
 _Amazonas mecánicas: engranajes visuales, políticos y culturales_,
 Madrid: Ministerio de Cultura, 2008.
 <!--[330][]-->
+
+Sontag, Susan,
+_Sobre la Fotografía_ [trad. Carlos Gardini]
+México DF: Alfaguara, 2006.
+<!--[]-->
 
 Sougez, Marie-loup(coord.),
 _Historia general de la fotografía_,
 Madrid: Cátedra, 2007.
 <!--[832][]-->
 
-TEJO Veloso, Carlos,
+Tejo Veloso, Carlos,
 _El cuerpo habitado. Fotografía cubana para un fin de milenio_,
 Santiago de Compostela: Universidad de Santiago de Compostela, 2009.
 <!--[289][]-->
 
-VV.AA.,
-_Década. La historia fotográfica definitiva de la primera década del siglo XXI_,
-¿¿¿???: Phaidon,2010.
-<!--[504][]-->
+McNamee, Terence(ed.),
+_Década. La historia fotográfica definitiva de la primera década del siglo XXI_ [selección de fotografías, Eamonn McCabe; textos: Terence McNamee, Anna Rader y Adrian Johnson],
+Londres: Phaidon,2010.
+<!--[504][D862 M3518][FAD]-->
 
 VV.AA,
-_La imagen fotográfica en la cultura digital_,
+_Copyleft. Manual de uso_,
+Madrid: TRaficantes de Sueños, 2006.
+
+VV.AA,
+_La imagen fotográfica en la cultura digital_[comp. Martin Lister; trad. Elisa Sanz Aiza],
 Barcelona: Paidós, 1997.
-<!--[336][]-->
+<!--[336][TR183 P4318][FAD]-->
 
 Warner Marien, Mary,
 _Photography: a cultural History_,
