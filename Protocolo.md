@@ -73,4 +73,4 @@ Para esto último, será necesario desarrollar y proponer un sistema de producci
 
 Con esta investigación, se pretende demostrar, bajo la premisa de que un artista debe ser _soberano_ en cuanto al sistema utilizará para producir su obra, que es posible crear una propuesta plástica al margen de los intereses y directrices de las corporaciones dedicadas a la fotografía que apuestan por la erradicación de formas _tradicionales_ de producción fotográfica.
 Con ello, decidir acerca del impacto ambiental y cultural que genera la producción de nuestras propias propuestas plásticas.
-Asimismo, el proyecto de investigación pretende aportar, además de una propuesta plástica, una sistema de producción fotográfica alternativo, basado en la cultura libre.
+Asimismo, el proyecto de investigación pretende aportar y compartir, además de una propuesta plástica, una sistema de producción fotográfica alternativo, basado en la cultura libre.
