@@ -20,7 +20,7 @@
 
         * **1.2.1.2** «Soberanía Auténtica»
 
-    * **1.2.3** ¿Es posible hablar de soberanía creativa?
+        * **1.2.3** ¿Es posible hablar de soberanía creativa?
 
     * **1.3** La cultura (libre)
 
