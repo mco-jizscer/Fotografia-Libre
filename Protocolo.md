@@ -34,6 +34,7 @@ _Fotografía desde la cultura libre: una aproximación a la soberanía creativa 
 - Debatir acerca de la vigencia y continuidad de los procesos químicos en la producción fotográfica contemporánea.
 - Revisar y analizar brevemente diversas formas de plantear la soberanía.
 - Problematizar los conceptos de soberanía, _Software_ libre, _Open Source Hardware_ y su relación con la cultura libre.
+- Diferenciar de lo sobreano y lo libre
 
 
 **Problema a resolver**
@@ -43,7 +44,7 @@ Mientras se augura el fin de la sociedad por desastres ecológicos, hasta hace u
 Ante estas catástrofes, surgen alternativas de producción de bienes culturales y materiales desde la cultura libre.
 
 Algunas de éstas alternativas emanan de la negación a la obsolescencia («obsolescencia programada») y de la búsqueda por prolongar la vida útil (tanto material como cultural) de aquello que producimos.
-Además, de la búsqueda por reducir su impacto ambiental [actualmente, podemos observar diversas maneras de dar continuidad y  de preser de ciertas maneras de producción que pueden ir desde la carpintería hasta sistemas operativos funcionales en computadoras con más de diez años de antigüedad].
+Además, de la búsqueda por reducir su impacto ambiental [actualmente, podemos observar diversas maneras de dar continuidad y  de preservar ciertas maneras de producción que pueden ir desde la carpintería hasta sistemas operativos funcionales en computadoras con más de diez años de antigüedad].
 
 La fotografía _analógica_ o química no escapó a la _catástrofe_.
 En las escuelas de arte y de fotografía se enseñan los procesos químicos, bajo la amenaza de su pronta desaparición a consecuencia de la masificación de los sistemas de producción _digitales_.
