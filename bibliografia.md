@@ -77,6 +77,8 @@ _La Fotografía como documento social_
 Barcelona: Gustavo Gilli, 2008.
 <!--[207][]-->
 
+Garcés, Marina, "¿Qué podemos hacer? O Sobre las intimidades de la crítica" en, Cornago, Oscar (ed.), _A veces me pregunto porqué sigo bailando_, Madrid: Contintametienes, 2011. <!-- pp. 393-408 [disponible en: http://artesescenicas.uclm.es/archivos_subidos/textos/379/Marina%20Garces-que%20podemos%20hacer.pdf]-->
+
 Garcés, Marina,
 _En las prisiones de lo posible_
 Barcelona: Bellaterra, 2002.
