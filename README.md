@@ -1,5 +1,5 @@
 
-#"<a id="returnto-note-1"></a>_Fotografía Libre: una aproximación a la soberanía creativa desde la producción fotográfica basada en la libre cultura."_[¹](#goto-note-1)
+#"<a id="returnto-note-1"></a>_Fotografía desde la cultura libre: una aproximación a la soberanía creativa en los procesos de producción fotográfica contemporánea._[¹](#goto-note-1)
 
 ###*Abstract:*
 
